@@ -20,3 +20,12 @@ Predict whether a customer will make an insurance claim.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+---
+
+## 👤 Author
+
+**Pradeepa Gnanasekaran**  
+📍 India  
+💼 Aspiring Data Scientist / ML Engineer  
+
+🔗 GitHub: https://github.com/PradeepaGnanasekaran
