@@ -16,16 +16,18 @@ Predict whether a customer will make an insurance claim.
 4. Evaluation
 5. Deployment
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
----
-
-## 👤 Author
+## AUTHOR 
 
 **Pradeepa Gnanasekaran**  
 📍 India  
 💼 Aspiring Data Scientist / ML Engineer  
 
 🔗 GitHub: https://github.com/PradeepaGnanasekaran
+
+
+## How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+---
+
